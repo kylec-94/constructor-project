@@ -5,6 +5,8 @@ var inquirer = require('inquirer');
 
 var startGame = function() {
 
+	console.log(showLetter);
+
 	this.answers = ["Bitcoin", "Nuclear", "Twitter"];
 	this.guesses = 10;
 	

@@ -15,6 +15,8 @@ var Letter = function(letter){
 			return this.letter;
 
 		}
+
+		
 	}
 }
 
